@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>Summerland</title>
  
     <!-- All Stylesheets -->
@@ -42,96 +42,96 @@
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-01.webp"
-                            srcset="images/home/banner-01-450.webp 575w, images/home/banner-01.webp 1200w"
+                            src="assets/images/home/banner-01.webp"
+                            srcset="assets/images/home/banner-01-450.webp 575w, assets/images/home/banner-01.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-02.webp"
-                            srcset="images/home/banner-02-450.webp 575w, images/home/banner-02.webp 1200w"
+                            src="assets/images/home/banner-02.webp"
+                            srcset="assets/images/home/banner-02-450.webp 575w, assets/images/home/banner-02.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-03.webp"
-                            srcset="images/home/banner-03-450.webp 575w, images/home/banner-03.webp 1200w"
+                            src="assets/images/home/banner-03.webp"
+                            srcset="assets/images/home/banner-03-450.webp 575w, assets/images/home/banner-03.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-04.webp"
-                            srcset="images/home/banner-04-450.webp 575w, images/home/banner-04.webp 1200w"
+                            src="assets/images/home/banner-04.webp"
+                            srcset="assets/images/home/banner-04-450.webp 575w, assets/images/home/banner-04.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-05.webp"
-                            srcset="images/home/banner-05-450.webp 575w, images/home/banner-05.webp 1200w"
+                            src="assets/images/home/banner-05.webp"
+                            srcset="assets/images/home/banner-05-450.webp 575w, assets/images/home/banner-05.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-06.webp"
-                            srcset="images/home/banner-06-450.webp 575w, images/home/banner-06.webp 1200w"
+                            src="assets/images/home/banner-06.webp"
+                            srcset="assets/images/home/banner-06-450.webp 575w, assets/images/home/banner-06.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-07.webp"
-                            srcset="images/home/banner-07-450.webp 575w, images/home/banner-07.webp 1200w"
+                            src="assets/images/home/banner-07.webp"
+                            srcset="assets/images/home/banner-07-450.webp 575w, assets/images/home/banner-07.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-08.webp"
-                            srcset="images/home/banner-08-450.webp 575w, images/home/banner-08.webp 1200w"
+                            src="assets/images/home/banner-08.webp"
+                            srcset="assets/images/home/banner-08-450.webp 575w, assets/images/home/banner-08.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-09.webp"
-                            srcset="images/home/banner-09-450.webp 575w, images/home/banner-09.webp 1200w"
+                            src="assets/images/home/banner-09.webp"
+                            srcset="assets/images/home/banner-09-450.webp 575w, assets/images/home/banner-09.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-10.webp"
-                            srcset="images/home/banner-10-450.webp 575w, images/home/banner-10.webp 1200w"
+                            src="assets/images/home/banner-10.webp"
+                            srcset="assets/images/home/banner-10-450.webp 575w, assets/images/home/banner-10.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-11.webp"
-                            srcset="images/home/banner-11-450.webp 575w, images/home/banner-11.webp 1200w"
+                            src="assets/images/home/banner-11.webp"
+                            srcset="assets/images/home/banner-11-450.webp 575w, assets/images/home/banner-11.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
                     </div> 
                     <div class="carousel-item" data-bs-interval="3000">
                         <img
-                            src="images/home/banner-12.webp"
-                            srcset="images/home/banner-12-450.webp 575w, images/home/banner-12.webp 1200w"
+                            src="assets/images/home/banner-12.webp"
+                            srcset="assets/images/home/banner-12-450.webp 575w, assets/images/home/banner-12.webp 1200w"
                             class="w-100 img-fluid" width="1903" height="793"
                             alt="Banner"
                         />
@@ -143,7 +143,7 @@
                     data-bs-target="#carouselId"
                     data-bs-slide="prev"
                 >
-                    <img src="images/home/arrow-left.svg" width="28" height="64" class="img-fluid" alt="Chevron">
+                    <img src="assets/images/home/arrow-left.svg" width="28" height="64" class="img-fluid" alt="Chevron">
                 </button>
                 <button
                     class="carousel-control-next opacity-100"
@@ -151,15 +151,15 @@
                     data-bs-target="#carouselId"
                     data-bs-slide="next"
                 >
-                    <img src="images/home/arrow-right.svg" width="28" height="64" class="img-fluid" alt="Chevron">
+                    <img src="assets/images/home/arrow-right.svg" width="28" height="64" class="img-fluid" alt="Chevron">
                 </button>
             </div>
             
-            <!-- <div class="items d-flex align-items-center" style="background: #000 url('images/home/header-background-image.webp') no-repeat center center / cover;">  
+            <!-- <div class="items d-flex align-items-center" style="background: #000 url('assets/images/home/header-background-image.webp') no-repeat center center / cover;">  
                 <div class="container">
                     <div class="row align-items-center justify-content-center">
                         <div class="col-lg-6 col-md-7 order-lg-2">
-                            <img src="images/home/header-hero-thumbnail.webp" class="img-fluid" alt="image">
+                            <img src="assets/images/home/header-hero-thumbnail.webp" class="img-fluid" alt="image">
                         </div> 
                         <div class="col-lg-6 order-lg-1">
                             <h1 class="h1 ff-sf fw-bold text-uppercase text-white">
@@ -198,7 +198,7 @@
                     <div class="owl-carousel productCarousel">
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -212,7 +212,7 @@
                         </div> 
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/tile-roofing/pro-2.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/tile-roofing/pro-2.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -226,7 +226,7 @@
                         </div> 
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/tile-roofing/pro-3.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/tile-roofing/pro-3.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -240,7 +240,7 @@
                         </div> 
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -259,7 +259,7 @@
                     <div class="owl-carousel productCarousel">
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -278,7 +278,7 @@
                     <div class="owl-carousel productCarousel">
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -297,7 +297,7 @@
                     <div class="owl-carousel productCarousel">
                         <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="images/products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
+                                <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
                             <div class="caption">
                                 <div class="d-flex flex-wrap justify-content-between align-items-center">
@@ -323,10 +323,10 @@
             <div class="row g-4 gx-xl-5 align-items-center">  
                 <div class="col-lg-6 order-lg-2 text-center d-none d-lg-block">
                     <div class="ps-lg-4 ps-xl-5"> 
-                        <div class="owl-carousel aboutImageSlider">
-                            <img src="images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
-                            <img src="images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
-                            <img src="images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About">  
+                        <div class="owl-carousel aboutassets/ImageSlider">
+                            <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
+                            <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
+                            <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About">  
                         </div>
                     </div>
                 </div><!--.//col-->
@@ -339,7 +339,7 @@
     
                         <div class="row g-4 align-items-center mt-3 mt-md-4">
                             <div class="col-5">
-                                <img src="images/services/roofing-sm-thumbnail.webp" class="img-fluid lazyload object-cover w-100" width="246" height="246" alt="Roofing"> 
+                                <img src="assets/images/services/roofing-sm-thumbnail.webp" class="img-fluid lazyload object-cover w-100" width="246" height="246" alt="Roofing"> 
                             </div>
                             <div class="col-7 text-start">
                                 <h3 class="h4 ff-sf fw-semibold">Roofing</h3>
@@ -370,8 +370,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="owl-carousel roofingCarousel">
-                        <img src="images/services/roofing/roofing-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/roofing/roofing-image-02.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/roofing/roofing-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/roofing/roofing-image-02.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1"> 
@@ -400,8 +400,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-lg-6">
                     <div class="owl-carousel redefinCarousel">
-                        <img src="images/services/redefin/redefin-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/redefin/redefin-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/redefin/redefin-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/redefin/redefin-image-01.webp" width="655" height="755" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-lg-6"> 

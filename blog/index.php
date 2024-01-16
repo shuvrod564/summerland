@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="../assets/images/favicon.ico" type="image/x-icon"> 
     <title>Blogs | Summerland</title>
  
     <!-- All Stylesheets -->
@@ -32,7 +32,7 @@
                         <div class="row g-3 align-items-center">
                             <div class="col-md-4 col-sm-5"> 
                                 <a href="detail.php" class="d-block thumbnail">
-                                    <img src="images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
+                                    <img src="../blog/images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
                                 </a>
                             </div>
                             <div class="col-md-8 col-sm-7"> 
@@ -55,7 +55,7 @@
                         <div class="row g-3 align-items-center">
                             <div class="col-md-4 col-sm-5"> 
                                 <a href="detail.php" class="d-block thumbnail">
-                                    <img src="images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
+                                    <img src="../blog/images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
                                 </a>
                             </div>
                             <div class="col-md-8 col-sm-7"> 
@@ -78,7 +78,7 @@
                         <div class="row g-3 align-items-center">
                             <div class="col-md-4 col-sm-5"> 
                                 <a href="detail.php" class="d-block thumbnail">
-                                    <img src="images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
+                                    <img src="../blog/images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
                                 </a>
                             </div>
                             <div class="col-md-8 col-sm-7"> 
@@ -101,7 +101,7 @@
                         <div class="row g-3 align-items-center">
                             <div class="col-md-4 col-sm-5"> 
                                 <a href="detail.php" class="d-block thumbnail">
-                                    <img src="images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
+                                    <img src="../blog/images/demo/blog-banner.webp" class="img-fluid lazyload w-100" alt="Blog Thumbnail">
                                 </a>
                             </div>
                             <div class="col-md-8 col-sm-7"> 

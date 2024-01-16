@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>Sanitary Wave</title>
  
     <!-- All Stylesheets -->
@@ -17,7 +17,7 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?> 
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('images/products/sanitary-wave/sanitary-ware-header-bg-image.webp');">
+    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/-products/sanitary-wave/sanitary-ware-header-bg-image.webp');">
         <div class="container">
             <p class="h1 text-uppercase text-white text-center mb-0">Sanitary Ware</p>
         </div>
@@ -30,8 +30,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-md-6 order-md-2">
                     <div class="owl-carousel roofingCarousel">
-                        <img src="images/services/sanitary-ware/sanitary-ware-01.webp" width="531" height="612" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/sanitary-ware/sanitary-ware-02.webp" width="531" height="612" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/sanitary-ware/sanitary-ware-01.webp" width="531" height="612" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/sanitary-ware/sanitary-ware-02.webp" width="531" height="612" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-md-6 order-md-1"> 
@@ -62,7 +62,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/cd8002.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/cd8002.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -106,7 +106,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/cd8004.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/cd8004.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -150,7 +150,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/cd8006.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/cd8006.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -194,7 +194,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/ch6001.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/ch6001.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -238,7 +238,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/ch6003.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/ch6003.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -282,7 +282,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/ch6005.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/ch6005.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -326,7 +326,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/ht6001.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/ht6001.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -371,7 +371,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/closets/ht6112.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/closets/ht6112.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -417,7 +417,7 @@
                     <div class="row gx-3 gy-4">
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M02012.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M02012.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M02012</h3>
                                     <p>Single code wall basin tap</p>
@@ -427,7 +427,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M02019.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M02019.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M02019</h3>
                                     <p>Single code wall basin tap</p>
@@ -437,7 +437,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M02022.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M02022.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M02022</h3>
                                     <p>Single code wall basin tap</p>
@@ -447,7 +447,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/MIIII3-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/MIIII3-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">MIIII3-063C</h3>
                                     <p>Basin Faucet</p>
@@ -457,7 +457,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/MI2II3-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/MI2II3-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">MI2II3-063C</h3>
                                     <p>Basin Faucet</p>
@@ -467,7 +467,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M5I034-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M5I034-063C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M5I034-063C</h3>
                                     <p>Vertical Kitchen Faucet</p>
@@ -477,7 +477,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/MII383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/MII383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">MII383-I64C</h3>
                                     <p>Basin Faucet</p>
@@ -487,7 +487,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/MI2328-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/MI2328-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">MI2328-I64C</h3>
                                     <p>Basin Faucet</p>
@@ -497,7 +497,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M54383-I64C-C478.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M54383-I64C-C478.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M54383-I64C-C478</h3>
                                     <p>Vertical Kitchen Faucet</p>
@@ -507,7 +507,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M3I383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M3I383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M3I383-I64C</h3>
                                     <p>Bath Faucet</p>
@@ -517,7 +517,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/M4I383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/M4I383-I64C.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">M4I383-I64C</h3>
                                     <p>Shower Faucet</p>
@@ -527,7 +527,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/P25I56.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/P25I56.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">P25I56</h3>
                                     <p>Plastic Hand Spray</p>
@@ -537,7 +537,7 @@
                         </div><!--.//col-->
                         <div class="col-xl-3 col-lg-4 col-md-6"> 
                             <div class="card text-center">
-                                <img src="images/products/sanitary-wave/faucet/P25I60.webp" width="382" height="382" class="img-fluid" alt="faucet product">
+                                <img src="assets/images/-products/sanitary-wave/faucet/P25I60.webp" width="382" height="382" class="img-fluid" alt="faucet product">
                                 <div class="card-body pb-sm-4"> 
                                     <h3 class="h4">P25I60</h3>
                                     <p>Plastic Hand Spray</p>
@@ -553,7 +553,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6021A.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6021A.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -593,7 +593,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6112B.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6112B.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -633,7 +633,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6113.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6113.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -673,7 +673,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6123A.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6123A.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -713,7 +713,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6123B.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6123B.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -753,7 +753,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6127.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6127.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -793,7 +793,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6134D.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6134D.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -833,7 +833,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6163.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6163.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -873,7 +873,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6240.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6240.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -913,7 +913,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6353.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6353.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -953,7 +953,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6384.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6384.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -993,7 +993,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6905.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6905.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -1033,7 +1033,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/6963.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/6963.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -1073,7 +1073,7 @@
                         <div class="row g-4 gx-lg-5 align-items-center">
                             <div class="col-md-5">
                                 <div class="thumbnail__box overflow-hidden text-center"> 
-                                    <img src="images/products/sanitary-wave/wasbasins/HB6106.webp" width="450" height="450" class="img-fluid" alt="Image">
+                                    <img src="assets/images/-products/sanitary-wave/wasbasins/HB6106.webp" width="450" height="450" class="img-fluid" alt="Image">
                                 </div>
                             </div>
                             <div class="col-md-7">
@@ -1118,7 +1118,7 @@
                 <ul class="pagination mt-4 mt-md-5 justify-content-end justify-content-lg-start" id="blogPagination">
                     <li class="page-item" hidden>
                         <a class="page-link" href="#" aria-label="Previous">
-                            <img src="images/icon/arrow-left.svg" class="img-fluid" alt="Icon">
+                            <img src="assets/images/icon/arrow-left.svg" class="img-fluid" alt="Icon">
                         </a>
                     </li> 
                     <li class="page-item active"><a class="page-link" href="tile-roofing.php">1</a></li>
@@ -1126,7 +1126,7 @@
                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item">
                         <a class="page-link" href="#" aria-label="Next">
-                            <img src="./blog/images/icon/arrow-right.svg" class="img-fluid" alt="Icon">
+                            <img src="./blog/assets/images/icon/arrow-right.svg" class="img-fluid" alt="Icon">
                         </a>
                     </li> 
                 </ul>

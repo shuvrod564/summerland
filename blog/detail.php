@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="../images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="../assets/images/favicon.ico" type="image/x-icon"> 
     <title>Why roofing are factmake 10 reason easier</title>
  
     <!-- All Stylesheets -->
@@ -21,7 +21,7 @@
         <div class="container">
             <div class="col-lg-9 col-xl-8 mx-auto">
                 <figure> 
-                    <img data-src="images/demo/blog-banner.webp" class="img-fluid lazyload round" alt="Blog Thumbnail">
+                    <img data-src="../blog/images/demo/blog-banner.webp" class="img-fluid lazyload round" alt="Blog Thumbnail">
                 </figure>
                  
                 <div class="date border-bottom pb-2 mb-4">22 Dec, 2022</div>

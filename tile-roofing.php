@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>Roofing Tiles</title>
  
     <!-- All Stylesheets -->
@@ -17,7 +17,7 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?> 
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('images/global/page-header-bg-image.webp');">
+    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/global/page-header-bg-image.webp');">
         <div class="container">
             <p class="h1 text-uppercase text-white text-center mb-0">Roofing Tiles</p>
         </div>
@@ -30,8 +30,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="owl-carousel roofingCarousel">
-                        <img src="images/services/roofing/roofing-image-01.webp" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/roofing/roofing-image-02.webp" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/roofing/roofing-image-01.webp" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/roofing/roofing-image-02.webp" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1"> 
@@ -56,7 +56,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/tile-roofing/pro-1.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/tile-roofing/pro-1.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -93,7 +93,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/tile-roofing/pro-2.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/tile-roofing/pro-2.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -130,7 +130,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/tile-roofing/pro-3.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/tile-roofing/pro-3.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -169,7 +169,7 @@
                 <ul class="pagination mt-4 mt-md-5 justify-content-end justify-content-lg-start" id="blogPagination">
                     <li class="page-item" hidden>
                         <a class="page-link" href="#" aria-label="Previous">
-                            <img src="images/icon/arrow-left.svg" class="img-fluid" alt="Icon">
+                            <img src="assets/images/icon/arrow-left.svg" class="img-fluid" alt="Icon">
                         </a>
                     </li> 
                     <li class="page-item active"><a class="page-link" href="tile-roofing.php">1</a></li>
@@ -177,7 +177,7 @@
                     <li class="page-item"><a class="page-link" href="#">3</a></li>
                     <li class="page-item">
                         <a class="page-link" href="#" aria-label="Next">
-                            <img src="./blog/images/icon/arrow-right.svg" class="img-fluid" alt="Icon">
+                            <img src="./blog/assets/images/icon/arrow-right.svg" class="img-fluid" alt="Icon">
                         </a>
                     </li> 
                 </ul>

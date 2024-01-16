@@ -6,7 +6,7 @@
                 <div class="col-md-4">
                     <div class="d-flex contact__card align-items-center">
                         <div class="icon">
-                            <img src="<?php echo $base_url;?>images/icons/location-white.svg" class="img-fluid" width="34" height="40" alt="Address">
+                            <img src="<?php echo $base_url;?>assets/images/icons/location-white.svg" class="img-fluid" width="34" height="40" alt="Address">
                         </div>
                         <div class="caption">
                             <address class="mb-0 text-white">Summerland Trading Company, MC Road, Ettumanoor – 686 631</address>
@@ -16,7 +16,7 @@
                 <div class="col-md-4">
                     <div class="d-flex contact__card align-items-center">
                         <div class="icon">
-                            <img src="<?php echo $base_url;?>images/icons/call-white.svg" class="img-fluid sm" width="32" height="32" alt="Phone">
+                            <img src="<?php echo $base_url;?>assets/images/icons/call-white.svg" class="img-fluid sm" width="32" height="32" alt="Phone">
                         </div>
                         <div class="caption">
                             <a href="tel:+919495999128">+91 9495999128</a> <br>
@@ -27,7 +27,7 @@
                 <div class="col-md-4">
                     <div class="d-flex contact__card align-items-center">
                         <div class="icon">
-                            <img src="<?php echo $base_url;?>images/icons/mail-white.svg" class="img-fluid sm" width="40" height="32" alt="email">
+                            <img src="<?php echo $base_url;?>assets/images/icons/mail-white.svg" class="img-fluid sm" width="40" height="32" alt="email">
                         </div>
                         <div class="caption">
                             <a href="mailto:info@summerland.co.in" class="text-lowercase">info@summerland.co.in</a> <br>
@@ -42,7 +42,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-lg-3 text-center text-lg-start mb-4 mb-lg-0">
                         <a href="<?php echo $base_url;?>" class="d-inline-block logo" aria-label="Summerland">
-                            <img src="<?php echo $base_url;?>images/logo-white.svg" width="272" height="64" class="img-fluid logo" alt="Summerland">
+                            <img src="<?php echo $base_url;?>assets/images/logo-white.svg" width="272" height="64" class="img-fluid logo" alt="Summerland">
                         </a> 
                     </div><!--.//col-->
                     <div class="col-lg-9">

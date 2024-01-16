@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>About Us - Summerland</title>
  
     <!-- All Stylesheets -->
@@ -17,7 +17,7 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?>
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('images/global/page-header-bg-image.webp');">
+    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/global/page-header-bg-image.webp');">
         <div class="container">
             <p class="h1 text-uppercase text-white text-center mb-0">About Us</p>
         </div>
@@ -30,8 +30,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-lg-6 order-lg-2">
                     <div class="owl-carousel roofingCarousel">
-                        <img src="images/services/roofing/roofing-image-01.webp" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/roofing/roofing-image-02.webp" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/roofing/roofing-image-01.webp" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/roofing/roofing-image-02.webp" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-lg-6 order-lg-1"> 
@@ -67,8 +67,8 @@
             <div class="row g-4 gx-lg-5 align-items-center">
                 <div class="col-lg-6">
                     <div class="owl-carousel redefinCarousel">
-                        <img src="images/services/redefin/redefin-image-01.webp" class="img-fluid lazyload round" alt="Image">
-                        <img src="images/services/redefin/redefin-image-01.webp" class="img-fluid lazyload round" alt="Image"> 
+                        <img src="assets/images/services/redefin/redefin-image-01.webp" class="img-fluid lazyload round" alt="Image">
+                        <img src="assets/images/services/redefin/redefin-image-01.webp" class="img-fluid lazyload round" alt="Image"> 
                     </div>
                 </div>
                 <div class="col-lg-6"> 

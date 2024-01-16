@@ -4,7 +4,7 @@
     <nav class="navbar navbar-expand-xl  max-1920" id="mainNav">
         <div class="container-fluid position-relative">
             <a href="<?php echo $base_url;?>" class="navbar-brand">
-                <img src="<?php echo $base_url;?>images/logo.svg" width="272" height="64" class="w-auto" alt="Summerland">
+                <img src="<?php echo $base_url;?>assets/images/logo.svg" width="272" height="64" class="w-auto" alt="Summerland">
             </a>  
             <div class="d-block d-none d-xl-block">  
                 <div class="top__nav">

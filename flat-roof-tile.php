@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>Flat Roof Tile</title>
  
     <!-- All Stylesheets -->
@@ -17,7 +17,7 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?> 
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('images/global/page-header-bg-image.webp');">
+    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/global/page-header-bg-image.webp');">
         <div class="container">
             <h1 class="h1 text-uppercase text-white text-center mb-0">Flat Roof Tile</h1>
         </div>
@@ -31,7 +31,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/flat-roof-tile/01.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/flat-roof-tile/01.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -68,7 +68,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/flat-roof-tile/02.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/flat-roof-tile/02.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -105,7 +105,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/flat-roof-tile/03.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/flat-roof-tile/03.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -142,7 +142,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/flat-roof-tile/04.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/flat-roof-tile/04.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">
@@ -179,7 +179,7 @@
                 <div class="row g-4 gx-lg-5 align-items-center">
                     <div class="col-md-5">
                         <div class="thumbnail__box overflow-hidden"> 
-                            <img src="images/products/flat-roof-tile/05.webp" class="img-fluid" alt="Image">
+                            <img src="assets/images/-products/flat-roof-tile/05.webp" class="img-fluid" alt="Image">
                         </div>
                     </div>
                     <div class="col-md-7">

@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
-    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <link rel="shortcut icon" href="assets/images/favicon.ico" type="image/x-icon"> 
     <title>CONTACT US</title>
  
     <!-- All Stylesheets -->
@@ -17,7 +17,7 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?> 
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('images/global/page-header-bg-image.webp');">
+    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/global/page-header-bg-image.webp');">
         <div class="container">
             <h1 class="h1 text-uppercase text-white text-center mb-0">Contact Us</h1>
         </div>
