@@ -10,15 +10,15 @@
                 <div class="top__nav">
                     <div class="d-flex justify-content-end">
                         <a href="#" class="d-inline-flex align-items-center fw-semibold">
-                            <img src="<?php echo $base_url;?>images/icons/download.svg" class="img-fluid" width="20" height="20" alt="download">
+                            <img src="<?php echo $base_url;?>assets/images/icons/download.svg" class="img-fluid" width="20" height="20" alt="download">
                             <span>Download Brochure</span>
                         </a>
                         <a href="#" class="d-inline-flex align-items-center fw-semibold">
-                            <img src="<?php echo $base_url;?>images/icons/email.svg" class="img-fluid" width="27" height="20" alt="Email">
+                            <img src="<?php echo $base_url;?>assets/images/icons/email.svg" class="img-fluid" width="27" height="20" alt="Email">
                             <span>info@summerland.co.in</span>
                         </a>
                         <a href="tel:+919495999128" class="btn btn-primary fw-semibold text-white rounded-0">
-                            <img src="<?php echo $base_url;?>images/icons/mobile-white.svg" class="img-fluid mobile" width="16" height="30" alt="Phone">
+                            <img src="<?php echo $base_url;?>assets/images/icons/mobile-white.svg" class="img-fluid mobile" width="16" height="30" alt="Phone">
                             <span>+91 9495 999 128</span>
                             <!-- <span>+91 9987 654 321</span> -->
                         </a>
@@ -87,11 +87,11 @@
     <!-- Mobile Btns -->
     <div class="d-flex d-sm-none justify-content-between bg-primary brochure__box px-2">
         <a href="#" class="d-inline-flex align-items-center">
-            <img src="<?php echo $base_url;?>images/icons/download.svg" class="img-fluid download" alt="download">
+            <img src="<?php echo $base_url;?>assets/images/icons/download.svg" class="img-fluid download" alt="download">
             <span>Download Brochure</span>
         </a> 
         <a href="tel:+919987654321" class="d-inline-flex align-items-center text-white rounded-0 shadow-none">
-            <img src="<?php echo $base_url;?>images/icons/mobile-white.svg" class="img-fluid mobile" alt="download">
+            <img src="<?php echo $base_url;?>assets/images/icons/mobile-white.svg" class="img-fluid mobile" alt="download">
             <span>+91 9987 654 321</span>
         </a>
     </div>

@@ -323,7 +323,7 @@
             <div class="row g-4 gx-xl-5 align-items-center">  
                 <div class="col-lg-6 order-lg-2 text-center d-none d-lg-block">
                     <div class="ps-lg-4 ps-xl-5"> 
-                        <div class="owl-carousel aboutassets/ImageSlider">
+                        <div class="owl-carousel aboutImageSlider">
                             <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
                             <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About"> 
                             <img src="assets/images/about/about-thumbnail-01.webp" class="img-fluid lazyload object-cover w-100" width="576" height="760" alt="About">  
