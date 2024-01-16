@@ -1,0 +1,110 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap');
+:root {
+    --mont: 'Montserrat', sans-serif;
+}
+
+/*---------------- Page Header Styles -----------------*/
+.page__header {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 6rem 0;
+    min-height: 15rem;
+    box-shadow: inset 0 0 0 2000px rgba($color: #000000, $alpha: 0.62);
+} 
+
+
+.date {
+    color: #747474;
+    margin-bottom: .5rem;font-weight: 600;
+}
+.blog__card {
+    box-shadow: 0px 3px 6px #00000029;
+    border: 1px solid #D5D5D5;
+    border-radius: .25rem;
+    overflow: hidden;
+
+    &:not(:last-child) { margin-bottom: 1.5rem; }
+
+    .thumbnail {
+        overflow: hidden;
+        img {
+            min-height: 15rem;object-fit: cover;transition: all .4s ease-in-out;
+        }
+
+        &:hover img { transform: scale(1.1) rotate(3deg); }
+    }
+
+    .caption {
+        padding: 1rem 1rem 1rem 1rem;
+        
+        .title { 
+            a {
+                color: var(--brand);
+                &:hover { color: var(--dark); }
+            }
+        }
+        .desc {
+            font-size: .937rem;
+            color: #888888;
+            line-height: 1.5;
+            overflow: hidden;
+            text-overflow: ellipsis;
+            -webkit-line-clamp: 3;
+            display: -webkit-box;
+            -webkit-box-orient: vertical;
+            white-space: normal;
+            font-family: var(--lora);
+        }
+        .link__more {
+            font-size: 13px;
+
+            
+        }
+    }
+}
+
+
+// Search Input
+.search__blog {
+    height: 3.625rem;border-radius: .25rem;border-color: #c8c7c7;padding-right: 3.25rem;
+    background-image: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0Ni4zNSIgaGVpZ2h0PSI0Ni4zNSIgdmlld0JveD0iMCAwIDQ2LjM1IDQ2LjM1Ij4KICA8cGF0aCBpZD0iUGF0aF81ODI2IiBkYXRhLW5hbWU9IlBhdGggNTgyNiIgZD0iTTU1LjE1NCw0OC42MjVhMTcuNTg4LDE3LjU4OCwwLDEsMC02LjUzLDYuNTI5TDYwLjc4OCw2Ny4zMThhNC42MTcsNC42MTcsMCwxLDAsNi41MjktNi41M1pNMjQuMywzOS45YTE1LjYsMTUuNiwwLDEsMSwxNS42LDE1LjZBMTUuNjEzLDE1LjYxMywwLDAsMSwyNC4zLDM5LjlaTTU0LjA0Niw1MC4zMjFsNC4xNjIsNC4xNjItMy43MjQsMy43MjQtNC4xNjEtNC4xNjFhMTcuNzMyLDE3LjczMiwwLDAsMCwzLjcyNC0zLjcyNFpNNjUuOTE1LDY1LjkxNWEyLjYzNiwyLjYzNiwwLDAsMS0zLjcyNCwwbC02LjMwNi02LjMwNSwzLjcyNC0zLjcyNCw2LjMwNSw2LjMwNkEyLjYzNiwyLjYzNiwwLDAsMSw2NS45MTUsNjUuOTE1WiIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIyLjMyIC0yMi4zMikiIGZpbGw9IiNkOTVjMTQiLz4KPC9zdmc+Cg==');
+    background-repeat: no-repeat;
+    background-size: 2rem;
+    background-position: center right .75rem;
+}
+
+.card {
+    border: 1px solid #c8c7c7;
+}
+.categories {
+    li {
+        margin-bottom: .5rem;
+
+        a {
+            color: #888888;
+
+            &:hover, &:focus {
+                color: var(--brand);text-decoration: underline;
+            }
+        }
+    }
+}
+ 
+
+
+@media (max-width: 1200px) { 
+    .page__header { 
+        min-height: 13rem;padding: 3rem 0;
+    } 
+ 
+}
+
+@media (max-width: 575.99px) { 
+    .page__header { 
+        min-height: 11rem;
+        padding: 3rem 0;
+    }
+ 
+}

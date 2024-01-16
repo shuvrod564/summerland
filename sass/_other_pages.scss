@@ -1,0 +1,164 @@
+
+/*---------------- Page Header Styles -----------------*/
+.page__header {
+    position: relative;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    padding: 6rem 0;
+    min-height: 15rem;
+    box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, 0.62);
+} 
+
+
+
+/*----------- FAQ Wrapper ---------------*/
+.faq__wrapper {
+    .accordion {
+        .accordion-item {
+            background-color: #fff;border-radius: .5rem;overflow: hidden;
+            margin-bottom: 1rem;background-color: transparent;border: 1px solid #D5D5D5;
+            .accordion-button {
+                border-radius: .65rem;background-color: #fbfbfb;color: #000000;font-size: 1.25rem;padding: 1rem 1rem;position: relative;
+                font-weight: 600;
+                font-display: swap;
+                &::after { 
+                    background-image: url('../images/icons/plus.svg');
+                    width: 2rem;height: 2rem;
+                    background-size: cover;
+                    transform: none;
+                } 
+                &:not(.collapsed) {
+                    color: var(--brand);
+                    background-color: #fff;
+                    box-shadow: none;
+                    &::after { 
+                        background-image: url('../images/icons/minus.svg'); 
+                          
+                    }
+                }
+                &:focus { box-shadow: none; }
+            }
+            .accordion-body {
+                background-color: #fff;
+                padding-top: 0;
+                p:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+
+    &.career__wrapper {
+        .accordion {
+            .accordion-item {
+                background-color: var(--bg-light-blue);border: 1px solid var(--bg-light-blue);
+                .accordion-button {
+                    background-color: var(--bg-light-blue); 
+                    &::after { 
+                        content: none;
+                    } 
+                    &:not(.collapsed) {
+                        content: none;
+                    } 
+                } 
+            }
+        }
+    }
+}
+ 
+
+
+
+
+
+ 
+/*------- Contact Page Styles --------*/ 
+.contact__wrapper {
+    .form-control {
+        border: 0;border-radius: 0%;
+        border-bottom: 1px solid var(--border-color);
+        padding-left: 0;
+    } 
+}
+.map {
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+    background-color: #ccc; 
+    max-height: 27rem;
+}
+.map::after {
+    padding-top: 56.25%;
+    display: block;
+    content: '';
+}
+.map iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border-width: 0px;
+}
+
+ 
+
+.product__card__lg {
+    margin-bottom: 2rem;
+    .thumbnail__box {
+        border: 1px solid #aaa;border-radius: 1.25rem;
+    }
+    .table__wrapp {
+        overflow-x: auto;
+
+        .table {
+            border-color: #aaa;
+            td {
+                color: #6C6C6C;font-size: 1.125rem;font-weight: 300;padding: .5rem 1rem .5rem 1.5rem;
+            }
+        }
+    }
+    .btn-primary {
+        font-size: .937rem;min-height: 2.75rem;font-weight: 400;
+    }
+}
+
+.warranty__thumb {
+    top: 0.5rem;right: 0.5rem;
+}
+
+
+.product__card.listing { 
+    border-radius: 0%;
+    .caption {
+        background-color: var(--brand);
+    }
+    .title {  
+        color: var(--white); 
+    }
+    .btn-outline-white {
+        font-size: 11px;font-weight: 500;height: 2.25rem;padding: 0% .5rem;min-height: auto;border-radius: .5rem;letter-spacing: 1px;
+    }
+   
+
+    &.listing {
+        box-shadow: 0px 3px 9px #00000029;
+        border: 1px solid #C7C7C7;
+
+        .title { 
+            width: calc(100% - 7rem); 
+        }
+        
+    }
+}
+
+@media (max-width: 992px) {
+    .product__card.listing {
+        
+        .title { width: calc(100% - 8rem); }
+        .btn-outline-white {
+            font-size: 10px;  
+        }
+    }
+}

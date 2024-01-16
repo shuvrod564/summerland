@@ -1,0 +1,257 @@
+<?php include_once('includes/url.inc.php'); ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, minimum-scale=1.0, initial-scale=1, shrink-to-fit=no">
+    <link rel="shortcut icon" href="images/favicon.ico" type="image/x-icon"> 
+    <title>Roofing Tiles</title>
+ 
+    <!-- All Stylesheets -->
+    <?php $folder='root'; include_once('includes/stylesheets.inc.php'); ?> 
+</head>
+<body> 
+
+    <!-- Preloader, Main Navigation Menu --> 
+    <?php $folder='root'; include_once('includes/header.inc.php'); ?> 
+
+    <!-- Header Wrapper Start -->
+    <header class="page__header d-flex align-items-center" style="background-image: url('images/global/page-header-bg-image.webp');">
+        <div class="container">
+            <p class="h1 text-uppercase text-white text-center mb-0">Roofing Tiles</p>
+        </div>
+    </header>
+    <!-- Header Wrapper End -->   
+    
+    <!-- Roofing Wrapper Start -->
+    <section class="pt-sm-4 pt-md-5 pb-lg-5 pb-3 text-center text-lg-start position-relative  max-1920"> 
+        <div class="container-fluid right">  
+            <div class="row g-4 gx-lg-5 align-items-center">
+                <div class="col-lg-6 order-lg-2">
+                    <div class="owl-carousel roofingCarousel">
+                        <img src="images/services/roofing/roofing-image-01.webp" class="img-fluid lazyload round" alt="Image">
+                        <img src="images/services/roofing/roofing-image-02.webp" class="img-fluid lazyload round" alt="Image"> 
+                    </div>
+                </div>
+                <div class="col-lg-6 order-lg-1"> 
+                    <div class="ps-lg-4 ps-xl-5 aligned__content"> 
+                        <h1 class="h1 text-primary">
+                            Roofing Tiles
+                        </h1>
+                        <p>Clay tiles' hard-wearing structure can withstand strong winds, heavy hail, intense heat, and even fire. Natural slates are another popular choice in terms of resilience and durability. It can withstand all kinds of weather extremes, maintaining structural integrity when exposed to very high winds, hot temperatures, and hail. Its natural properties also make it non-combustible. Metal tiles are manufactured to survive stormy conditions with excellent resistance to fire, rot, mildew, and insects despite boasting a more lightweight structure. </p>
+                        <p>Are you confused about which is the best option for you? Our roofing specialist will give you all the details and you will be able to make an informed decision.</p>
+                    </div>
+                </div><!--.//col--> 
+            </div><!--.//row--> 
+        </div><!--.//container--> 
+    </section>
+    <!-- Roofing Wrapper End -->
+
+
+    <!-- Listing Wrapper Start -->
+    <section class="py-5">
+        <div class="container">
+            <div class="product__card__lg">
+                <div class="row g-4 gx-lg-5 align-items-center">
+                    <div class="col-md-5">
+                        <div class="thumbnail__box overflow-hidden"> 
+                            <img src="images/products/tile-roofing/pro-1.webp" class="img-fluid" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h2 class="text-uppercase fw-semibold">Roof tile</h2>
+                        <div class="">Product Details:</div>
+                        <div class="table__wrapp mt-2">
+                            <table class="table table-bordered mb-0">
+                                <tr>
+                                    <td>Dimensions</td>
+                                    <td>300x400</td>
+                                </tr> 
+                                <tr>
+                                    <td>Brand</td>
+                                    <td>CRIZERA</td>
+                                </tr>
+                                <tr>
+                                    <td>Usage/Application</td>
+                                    <td>Building  Roofing </td>
+                                </tr>
+                                <tr>
+                                    <td>Country of Origin</td>
+                                    <td>Made in India</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="d-flex flex-wrap mt-3 mt-md-4 align-items-center justify-content-between"> 
+                            <div class="price h4 mb-0">Product Price: <span class="text-primary">249/-</span></div>
+                            <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#quoteModal" class="btn btn-primary">GET A QUOTE <i class="arrow"></i></a>
+                        </div>
+                    </div>
+                </div><!--./row-->
+            </div><!--.//pro__card-->
+            <div class="product__card__lg">
+                <div class="row g-4 gx-lg-5 align-items-center">
+                    <div class="col-md-5">
+                        <div class="thumbnail__box overflow-hidden"> 
+                            <img src="images/products/tile-roofing/pro-2.webp" class="img-fluid" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h2 class="text-uppercase fw-semibold">Flat Roof tile</h2>
+                        <div class="">Product Details:</div>
+                        <div class="table__wrapp mt-2">
+                            <table class="table table-bordered mb-0">
+                                <tr>
+                                    <td>Dimensions</td>
+                                    <td>300x400</td>
+                                </tr> 
+                                <tr>
+                                    <td>Brand</td>
+                                    <td>CRIZERA</td>
+                                </tr>
+                                <tr>
+                                    <td>Usage/Application</td>
+                                    <td>Building  Roofing </td>
+                                </tr>
+                                <tr>
+                                    <td>Country of Origin</td>
+                                    <td>Made in India</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="d-flex flex-wrap mt-3 mt-md-4 align-items-center justify-content-between"> 
+                            <div class="price h4 mb-0">Product Price: <span class="text-primary">249/-</span></div>
+                            <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#quoteModal" class="btn btn-primary">GET A QUOTE <i class="arrow"></i></a>
+                        </div>
+                    </div>
+                </div><!--./row-->
+            </div><!--.//pro__card-->
+            <div class="product__card__lg">
+                <div class="row g-4 gx-lg-5 align-items-center">
+                    <div class="col-md-5">
+                        <div class="thumbnail__box overflow-hidden"> 
+                            <img src="images/products/tile-roofing/pro-3.webp" class="img-fluid" alt="Image">
+                        </div>
+                    </div>
+                    <div class="col-md-7">
+                        <h2 class="text-uppercase fw-semibold">Central Flat Roof tile</h2>
+                        <div class="">Product Details:</div>
+                        <div class="table__wrapp mt-2">
+                            <table class="table table-bordered mb-0">
+                                <tr>
+                                    <td>Dimensions</td>
+                                    <td>300x400</td>
+                                </tr> 
+                                <tr>
+                                    <td>Brand</td>
+                                    <td>CRIZERA</td>
+                                </tr>
+                                <tr>
+                                    <td>Usage/Application</td>
+                                    <td>Building  Roofing </td>
+                                </tr>
+                                <tr>
+                                    <td>Country of Origin</td>
+                                    <td>Made in India</td>
+                                </tr>
+                            </table>
+                        </div>
+                        <div class="d-flex flex-wrap mt-3 mt-md-4 align-items-center justify-content-between"> 
+                            <div class="price h4 mb-0">Product Price: <span class="text-primary">249/-</span></div>
+                            <a href="javascript:void(0)" data-bs-toggle="modal" data-bs-target="#quoteModal" class="btn btn-primary">GET A QUOTE <i class="arrow"></i></a>
+                        </div>
+                    </div>
+                </div><!--./row-->
+            </div><!--.//pro__card-->
+
+
+            <nav aria-label="Blog Page Navigation">
+                <ul class="pagination mt-4 mt-md-5 justify-content-end justify-content-lg-start" id="blogPagination">
+                    <li class="page-item" hidden>
+                        <a class="page-link" href="#" aria-label="Previous">
+                            <img src="images/icon/arrow-left.svg" class="img-fluid" alt="Icon">
+                        </a>
+                    </li> 
+                    <li class="page-item active"><a class="page-link" href="tile-roofing.php">1</a></li>
+                    <li class="page-item"><a class="page-link" href="#">2</a></li>
+                    <li class="page-item"><a class="page-link" href="#">3</a></li>
+                    <li class="page-item">
+                        <a class="page-link" href="#" aria-label="Next">
+                            <img src="./blog/images/icon/arrow-right.svg" class="img-fluid" alt="Icon">
+                        </a>
+                    </li> 
+                </ul>
+            </nav>
+        </div><!--.//container-->
+    </section>
+    <!-- Listing Wrapper End -->
+
+    
+
+
+
+    
+    <!-- Modal -->
+    <div class="modal fade" id="quoteModal" tabindex="-1" aria-labelledby="quoteModalLabel" aria-hidden="true">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header border-0">
+                    <p class="modal-title h4 mb-0 fw-medium text-dark" id="quoteModalLabel">Get A Quote</p>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <div class="form__wrapp row gy-2 gx-4">
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="small" for="fullName">Full Name <span class="text-danger">*</span></label>
+                                <input type="text" name="fullName" id="fullName" class="form-control">
+                                <div class="small text-danger fw-light error" id="fullName-error"></div>
+                            </div> 
+                        </div><!--.//col-->  
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="small" for="emailAddress">Email <span class="text-danger">*</span></label>
+                                <input type="text" name="emailAddress" id="emailAddress" class="form-control">
+                                <div class="small text-danger fw-light error" id="emailAddress-error"></div>
+                            </div>
+                        </div><!--.//col-->
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="small" for="contactNumber">Phone Number <span class="text-danger">*</span></label>
+                                <input type="text" name="contactNumber" id="contactNumber" class="form-control">
+                                <div class="small text-danger fw-light error" id="contactNumber-error"></div>
+                            </div>
+                        </div><!--.//col-->
+                        <div class="col-md-6">
+                            <div class="form-group">
+                                <label class="small" for="subject">Subject <span class="text-danger">*</span></label>
+                                <input type="text" name="subject" id="subject" class="form-control">
+                                <div class="small text-danger fw-light error" id="subject-error"></div>
+                            </div>
+                        </div><!--.//col-->
+                        <div class="col-12"> 
+                            <div class="form-group">
+                                <label class="small" for="userMessage">Message <span class="text-danger">*</span></label>
+                                <textarea type="text" name="userMessage" id="userMessage" class="form-control"></textarea>
+                                <div class="small text-danger fw-light error" id="userMessage-error"></div>
+                            </div>
+                        </div> 
+                        <div class="col-12"> 
+                            <div class="form-group">
+                                <button onclick="submitQuoteContactForm()" class="btn btn-primary px-4 px-md-5 mt-4">Submit</button> 
+                            </div>
+                        </div>
+                    </div> 
+                </div><!--./modal-body-->
+            </div>
+        </div>
+    </div>
+   
+     
+    <!-- Footer and Script List --> 
+    <?php $folder='root'; include_once('includes/footer.inc.php'); ?> 
+    <!-- Form Validation -->
+    <?php $folder='root'; include_once('includes/_quote-form-validation.script.inc.php');?>
+    
+</body>
+</html>

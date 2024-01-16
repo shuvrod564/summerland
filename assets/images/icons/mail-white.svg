@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.356" height="55.6" viewBox="0 0 70.356 55.6">
+  <g id="Page-1" transform="translate(3.178 2)">
+    <g id="Artboard" transform="translate(1 1)">
+      <g id="mail">
+        <path id="Shape" d="M6.2,0H55.8A6.218,6.218,0,0,1,62,6.2V43.4a6.218,6.218,0,0,1-6.2,6.2H6.2A6.218,6.218,0,0,1,0,43.4V6.2A6.218,6.218,0,0,1,6.2,0Z" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" fill-rule="evenodd"/>
+        <path id="Shape-2" data-name="Shape" d="M62,2,31,23.7,0,2" transform="translate(0 4.2)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="6" fill-rule="evenodd"/>
+      </g>
+    </g>
+  </g>
+</svg>

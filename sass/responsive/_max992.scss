@@ -1,0 +1,21 @@
+@media (max-width: 992px) { 
+
+    
+
+    .about__banner__box {  margin: 0 auto; }
+     
+    .process__card .caption { 
+        transform: translateY(0%);
+        height: auto !important;
+        top: auto !important;
+        bottom: 0;
+    }
+
+
+    .page__header { min-height: 13rem;padding: 3rem 0; }
+    .product__card__lg .table__wrapp .table td { 
+        font-size: 1rem; 
+        padding: 0.35rem .5rem 0.35rem 1rem;
+    }
+    
+}
