@@ -24,8 +24,8 @@
 
     <!-- Product Listing Wrapper Start -->
     <section class="py-5">
-        <div class="container">
-            <h1 class="text-center h2 mb-5">EWC's Products</h1> 
+        <div class="container py-lg-4">
+            <h1 class="text-center h1 text-dark text-uppercase mb-4 mb-md-5">EWC's Products</h1> 
             <div class="row gx-2 gx-sm-3 gy-3 gy-sm-4">
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-6">
                     <div class="product__card listing">

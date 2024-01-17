@@ -187,77 +187,135 @@
              
             <nav class="mt-4">
                 <div class="nav nav-tabs mx-auto border-0 justify-content-center" id="nav-tab" role="tablist">
-                    <button class="nav-link border-0 m-0 lead fw-bold" id="nav-tab1-tab" data-bs-toggle="tab" data-bs-target="#nav-tab1" type="button" role="tab" aria-controls="nav-tab1" aria-selected="true">TILE ROOFING</button>
-                    <button class="nav-link border-0 m-0 lead fw-bold active" id="nav-tab2-tab" data-bs-toggle="tab" data-bs-target="#nav-tab2" type="button" role="tab" aria-controls="nav-tab2" aria-selected="false">SANITARY WARE</button>
+                    <button class="nav-link border-0 m-0 lead fw-bold active" id="nav-tab1-tab" data-bs-toggle="tab" data-bs-target="#nav-tab1" type="button" role="tab" aria-controls="nav-tab1" aria-selected="true">TILE ROOFING</button>
+                    <button class="nav-link border-0 m-0 lead fw-bold" id="nav-tab2-tab" data-bs-toggle="tab" data-bs-target="#nav-tab2" type="button" role="tab" aria-controls="nav-tab2" aria-selected="false">SANITARY WARE</button>
                     <button class="nav-link border-0 m-0 lead fw-bold" id="nav-tab3-tab" data-bs-toggle="tab" data-bs-target="#nav-tab3" type="button" role="tab" aria-controls="nav-tab3" aria-selected="false">ROOFING SHINGLES</button>
                     <button class="nav-link border-0 m-0 lead fw-bold" id="nav-tab4-tab" data-bs-toggle="tab" data-bs-target="#nav-tab4" type="button" role="tab" aria-controls="nav-tab4" aria-selected="false">CRIZERAWUD</button>
                 </div>
             </nav> 
             <div class="tab-content pt-4 pt-lg-5" id="nav-tabContent">
-                <div class="tab-pane" id="nav-tab1" role="tabpanel" aria-labelledby="nav-tab1-tab">
+                <div class="tab-pane fade show active" id="nav-tab1" role="tabpanel" aria-labelledby="nav-tab1-tab">
                     <div class="owl-carousel productCarousel">
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 1</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/french-series/blue-gray.webp" 
+                                    alt="Blue Grey"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Blue Grey 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Piano Curve</p>
                                 </div>
+                                <button value="Frence Series - Blue Grey, Piano Curve" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div> 
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/tile-roofing/pro-2.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 2</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/french-series/coffee-matt.webp" 
+                                    alt="Coffee Matt"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Coffee Matt 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Piano Curve</p>
                                 </div>
+                                <button value="Frence Series - Coffee Matt, Piano Curve" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div> 
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/tile-roofing/pro-3.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 3</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/german-series/blue-gray.webp" 
+                                    alt="Blue Grey"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Blue Grey 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Full Flat</p>
                                 </div>
+                                <button value="German Series - Blue Grey, Full Flat" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div> 
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/tile-roofing/pro-1.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 4</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/german-series/coffee-matt.webp" 
+                                    alt="Coffee Matt"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Coffee Matt 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Full Flat</p>
                                 </div>
+                                <button value="German Series -Coffee Matt, Full Flat" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div> 
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/east-asian-series/blue-gray-glossy.webp" 
+                                    alt="Blue Grey"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Blue Grey 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Glossy</p>
+                                </div>
+                                <button value="East Asian Series - Blue Grey, Glossy" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/tiles/east-asian-series/coffee-brown-glossy.webp" 
+                                    alt="Coffee Brown"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Coffee Brown 
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Glossy</p>
+                                </div>
+                                <button value="East Asian Series - Coffee Brown, Glossy" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
                     </div><!--.//owl_carousel-->
                 </div><!--.//tab_pane_1-->
 
-                <div class="tab-pane fade fade show active" id="nav-tab2" role="tabpanel" aria-labelledby="nav-tab2-tab">
+                <div class="tab-pane fade" id="nav-tab2" role="tabpanel" aria-labelledby="nav-tab2-tab">
                     <div class="owl-carousel productCarousel">
-                        <div class="product__card">
+                        <!-- <div class="product__card">
                             <a href="#" class="thumbnail d-block p-3 p-md-4">
                                 <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
                             </a>
@@ -270,45 +328,281 @@
                                     <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
                                 </div>
                             </div>
-                        </div>  
+                        </div>   -->
+                        <div class="product__card listing">
+                            <figure class="text-center position-relative">
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/closets/ht6001.webp" 
+                                    alt="HT6001"
+                                    width="403" height="403"
+                                >
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        HT6001
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Wash down Wall hang</p>
+                                </div>
+                                <button value="EWCs- HT6001" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center position-relative">
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/closets/ht6112.webp" 
+                                    alt="HT6112"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        HT6112
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Wash down Wall hang</p>
+                                </div>
+                                <button value="EWCs- HT6112" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center position-relative">
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/faucet/M3I383-I64C.webp" 
+                                    alt="MHR16404"
+                                    width="405" height="405"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        MHR16404
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Bath Mixer Faucet</p>
+                                </div>
+                                <button value="Faucet- MHR16404" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center position-relative">
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                                <img 
+                                    class="img-fluid transition" 
+                                    src="<?php echo $base_url;?>assets/images/products/faucet/M4I383-I64C.webp" 
+                                    alt="MHR16405"
+                                    width="405" height="405"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        MHR16405
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Shower Mixer Faucet</p>
+                                </div>
+                                <button value="Faucet- MHR16405" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0 position-relative">
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/washbasins/6021A.webp" 
+                                    alt="6021A"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        6021A
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Art Basin</p>
+                                </div>
+                                <button value="Washbasins- 6021A" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0 position-relative">
+                                <?php include('includes/warranty-thumb.inc.php');?>
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/washbasins/6112B.webp" 
+                                    alt="6112B"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        6112B
+                                    </h2>
+                                    <p class="mb-0 small lh-base">Art Basin</p>
+                                </div>
+                                <button value="Washbasins- 6112B" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
                     </div><!--.//owl_carousel-->
                 </div><!--.//tab_pane_2-->
 
                 <div class="tab-pane fade" id="nav-tab3" role="tabpanel" aria-labelledby="nav-tab3-tab">
                     <div class="owl-carousel productCarousel">
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 1</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/roofing-shingles/caramel-brown-sm.webp" 
+                                    alt="Caramel Brown"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Caramel Brown 
+                                    </h2> 
                                 </div>
+                                <button value="Roofing Shingles - Caramel Brown" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div>  
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/roofing-shingles/charcol-grey-sm.webp" 
+                                    alt="Charcol Grey"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Charcol Grey 
+                                    </h2> 
+                                </div>
+                                <button value="Roofing Shingles - Charcol Grey" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/roofing-shingles/forest-green-sm.webp" 
+                                    alt="Forest Green"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Forest Green 
+                                    </h2> 
+                                </div>
+                                <button value="Roofing Shingles - Forest Green" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/roofing-shingles/midnight-blue-sm.webp" 
+                                    alt="Midnight Blue"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-1 fw-semibold text-white">
+                                        Midnight Blue 
+                                    </h2> 
+                                </div>
+                                <button value="Roofing Shingles - Midnight Blue" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
                     </div><!--.//owl_carousel-->
                 </div><!--.//tab_pane_3-->
 
                 <div class="tab-pane fade" id="nav-tab4" role="tabpanel" aria-labelledby="nav-tab4-tab">
                     <div class="owl-carousel productCarousel">
-                        <div class="product__card">
-                            <a href="#" class="thumbnail d-block p-3 p-md-4">
-                                <img src="assets/images/-products/product.webp" class="img-fluid" width="355" height="355" alt="product thumbnail">
-                            </a>
-                            <div class="caption">
-                                <div class="d-flex flex-wrap justify-content-between align-items-center">
-                                    <div class="details">
-                                        <h3 class="lead fw-medium ff-sf mb-0"><a href="#" class="link">One Piece Closet 1</a></h3>
-                                        <p class="mb-0 desc ff-sf small">Lorem Ipsum Is Simply Dummy Text Of</p>
-                                    </div>
-                                    <a href="#" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/pvc-form-boards/crizerawud-9mm.webp" 
+                                    alt="CRIZERAWUD 9mm"
+                                    width="403" height="403" loading="lazy"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-0 fw-semibold text-white">
+                                        CRIZERAWUD 9mm
+                                    </h2> 
                                 </div>
+                                <button value="CRIZERAWUD - CRIZERAWUD 9mm" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
                             </div>
-                        </div>  
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/pvc-form-boards/crizerawud-12mm.webp" 
+                                    alt="CRIZERAWUD 12mm"
+                                    width="403" height="403" loading="lazy"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-0 fw-semibold text-white">
+                                        CRIZERAWUD 12mm
+                                    </h2> 
+                                </div>
+                                <button value="CRIZERAWUD - CRIZERAWUD 12mm" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/pvc-form-boards/crizerawud-17mm.webp" 
+                                    alt="CRIZERAWUD 17mm"
+                                    width="403" height="403" loading="lazy"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-0 fw-semibold text-white">
+                                        CRIZERAWUD 17mm
+                                    </h2> 
+                                </div>
+                                <button value="CRIZERAWUD - CRIZERAWUD 17mm" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
+                        <div class="product__card listing">
+                            <figure class="text-center mb-0">
+                                <img 
+                                    class="img-fluid transition w-100" 
+                                    src="<?php echo $base_url;?>assets/images/products/wpc-boards/WPC-Boards-sm.webp" 
+                                    alt="WPC Boards"
+                                    width="403" height="403"
+                                >
+                            </figure>
+                            <div class="caption px-3 py-3 d-flex justify-content-between align-items-center">
+                                <div class="title">
+                                    <h2 class="lead-sm mb-0 fw-semibold text-white">
+                                        WPC Boards
+                                    </h2> 
+                                </div>
+                                <button value="CRIZERAWUD - WPC Boards" class="btn btn-outline-white productEnquirBtn">ENQUIRE NOW</button>
+                            </div>
+                        </div>
                     </div><!--.//owl_carousel-->
                 </div><!--.//tab_pane_4-->
             </div><!--.//tab__content-->
@@ -386,7 +680,7 @@
                         <p class="small">
                             Roofing Shingles are the most commonly used roofing material in North America, and they are increasingly preferred across India. These products are composites composed of reinforced fibreglass mesh and mineral-stabilised, high-grade asphalt granules overlaid with ceramic coatings for strength.
                         </p>   
-                        <a href="tile-roofing.php" class="btn btn-primary">Know More <i class="arrow"></i></a>
+                        <a href="roofing-tile.php" class="btn btn-primary">Know More <i class="arrow"></i></a>
                     </div>
                 </div><!--.//col--> 
             </div><!--.//row--> 
@@ -427,6 +721,9 @@
      
     <!-- Footer and Script List --> 
     <?php $folder='root'; include_once('includes/footer.inc.php'); ?> 
+
+    <!-- Product Enquiry Form and validation Script -->
+    <?php include_once('includes/product-enquire-modal-form-script.inc.php'); ?> 
  
 </body>
 </html>

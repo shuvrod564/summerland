@@ -17,11 +17,13 @@
     <?php $folder='root'; include_once('includes/header.inc.php'); ?>
 
     <!-- Header Wrapper Start -->
-    <header class="page__header d-flex align-items-center" style="background-image: url('assets/images/global/page-header-bg-image.webp');">
-        <div class="container">
-            <p class="h1 text-uppercase text-white text-center mb-0">About Us</p>
-        </div>
-    </header>
+    <div class="container-fluid full-width px-0 text-center">
+        <img 
+            src="assets/images/global/about-header-bg.webp?v=1" 
+            width="1903" height="425" class="img-fluid"
+            alt="East Asian Series Tiles"
+        > 
+    </div>
     <!-- Header Wrapper End -->
 
     <!-- Roofing Wrapper Start -->

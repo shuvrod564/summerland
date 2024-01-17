@@ -27,6 +27,9 @@ function topFunction() {
   $("#mainNav .navbar-nav li a").filter(function () {
     return this.href == location.href.replace(/#.*/, "");
   }).parents("li").addClass("active");
+  $(".links__list a").filter(function () {
+    return this.href == location.href.replace(/#.*/, "");
+  }).parents("li").addClass("active");
 
   $("#heroSlider").owlCarousel({
     items: 1,

@@ -32,7 +32,7 @@
             </div>
             <p class="lead text-center fw-normal col-lg-7 mx-auto">
                 Your form was submitted successfully. One of the Team Members will contact you to discuss the service options as quickly as possible. 
-                <br> You can contact us on +91 9987 654 321.
+                <br> You can call us on +91 9495 999 128.
             </p>
         </div>
     </div>

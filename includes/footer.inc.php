@@ -49,8 +49,8 @@
                         <ul class="links d-flex flex-wrap justify-content-center justify-content-lg-end">
                             <li><a href="<?php echo $base_url;?>">Home</a></li>
                             <li><a href="<?php echo $base_url;?>about.php">About Us</a></li>
-                            <li><a href="<?php echo $base_url;?>tile-roofing.php">roof tile</a></li> 
-                            <li><a href="<?php echo $base_url;?>sanitary-wave.php">sanitary ware</a></li>
+                            <li><a href="<?php echo $base_url;?>roofing-tile.php">roof tile</a></li> 
+                            <li><a href="<?php echo $base_url;?>sanitary-ware.php">sanitary ware</a></li>
                             <li><a href="<?php echo $base_url;?>roofing-shingles.php">roofing shingles</a></li>
                         </ul>
                     </div><!--.//col-->

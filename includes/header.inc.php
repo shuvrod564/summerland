@@ -25,16 +25,16 @@
                     </div>
                 </div>
                 <ul class="navbar-nav align-items-center">   
-                    <li class="nav-item">
+                    <li class="nav-item d-none d-xxl-block">
                         <a href="<?php echo $base_url;?>" class="nav-link">Home</a>
                     </li>  
-                    <li class="nav-item">
+                    <li class="nav-item d-none d-xxl-block">
                         <a href="<?php echo $base_url;?>about.php" class="nav-link">About Us</a>
                     </li> 
                     <li class="nav-item dropdown "> 
-                        <a href="<?php echo $base_url;?>sanitary-ware.php" class="nav-link dropdown-toggle">Sanitaryware</a>
-                        <a href="#" class="nav-link dropdown-toggle d-none" type="button" id="serviceDropDown3" data-bs-toggle="dropdown" aria-expanded="false">
-                            #
+                        <!-- <a href="<?php echo $base_url;?>sanitary-ware.php" class="nav-link dropdown-toggle">Sanitaryware</a> -->
+                        <a href="#" class="nav-link dropdown-toggle" type="button" id="serviceDropDown3" data-bs-toggle="dropdown" aria-expanded="false">
+                            Sanitaryware
                         </a>
                         <ul class="dropdown-menu border-0 bg-white p-2 shadow" aria-labelledby="serviceDropDown3">
                             <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>ewcs.php">EWCs</a></li>
@@ -45,32 +45,28 @@
                     <li class="nav-item">
                         <a href="<?php echo $base_url;?>roofing-shingles.php" class="nav-link">Roofing Shingles</a>
                     </li>  
-                    <li class="nav-item dropdown "> 
-                        <a href="<?php echo $base_url;?>tile-roofing.php" class="nav-link dropdown-toggle">Roof Tile</a>
-                        <a href="#" class="nav-link dropdown-toggle d-none" type="button" id="serviceDropDown3" data-bs-toggle="dropdown" aria-expanded="false">
-                            #
+                    <li class="nav-item dropdown ">  
+                        <a href="#" class="nav-link dropdown-toggle" type="button" id="serviceDropDown002" data-bs-toggle="dropdown" aria-expanded="false">
+                            Crizerawud
                         </a>
-                        <div class="dropdown-menu border-0 bg-white p-0" aria-labelledby="serviceDropDown3">
-                            <a href="<?php echo $base_url;?>roof-tile.php" class="dropdown-item">French Series</a>   
-                            <a href="<?php echo $base_url;?>flat-roof-tile.php" class="dropdown-item">German Series</a>   
-                            <a href="<?php echo $base_url;?>central-flat-roof-tile.php" class="dropdown-item">East Asian Series</a>   
-                            <!-- <a href="<?php echo $base_url;?>roof-tile.php" class="dropdown-item">Roof tile</a>   
-                            <a href="<?php echo $base_url;?>flat-roof-tile.php" class="dropdown-item">Flat Roof tile</a>   
-                            <a href="<?php echo $base_url;?>central-flat-roof-tile.php" class="dropdown-item">Central Flat Roof tile</a>    -->
-                        </div> 
+                        <ul class="dropdown-menu border-0 bg-white p-2 shadow" aria-labelledby="serviceDropDown002">
+                            <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>pvc-form-boards.php">PVC Form Boards</a></li>
+                            <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>wpc-boards.php">WPC Boards</a></li>  
+                        </ul> 
                     </li>     
-                    <li class="nav-item dropdown border_right"> 
-                        <a href="#" class="nav-link dropdown-toggle">Buildwares</a>
-                        <a href="#" class="nav-link dropdown-toggle d-none" type="button" id="serviceDropDown3" data-bs-toggle="dropdown" aria-expanded="false">
-                            #
+                    <li class="nav-item dropdown "> 
+                        <!-- <a href="<?php echo $base_url;?>roofing-tile.php" class="nav-link dropdown-toggle">Roof Tile</a> -->
+                        <a href="#" class="nav-link dropdown-toggle" type="button" id="serviceDropDown3" data-bs-toggle="dropdown" aria-expanded="false">
+                            Roof Tile
                         </a>
-                        <div class="dropdown-menu border-0 bg-white p-0" aria-labelledby="serviceDropDown3">
-                            <a href="#" class="dropdown-item">Manhole Covers</a>   
-                            <a href="#" class="dropdown-item">Cutoff Wheel</a>   
-                            <a href="#" class="dropdown-item">Water Tank Filter</a>   
-                            <a href="#" class="dropdown-item">Silicone Sealant</a>   
-                            <a href="#" class="dropdown-item">Concrete Nails</a>    
-                        </div> 
+                        <ul class="dropdown-menu border-0 bg-white p-2 shadow" aria-labelledby="serviceDropDown3">
+                            <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>french-series.php">French Series</a></li>
+                            <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>german-series.php">German Series</a></li> 
+                            <li><a class="dropdown-item rounded" href="<?php echo $base_url;?>east-asian-series.php">East Asian Series</a></li> 
+                        </ul> 
+                    </li>     
+                    <li class="nav-item border_right"> 
+                        <a href="<?php echo $base_url;?>buildwares.php" class="nav-link">Buildwares</a> 
                     </li>     
                      
                        
@@ -86,13 +82,13 @@
 
     <!-- Mobile Btns -->
     <div class="d-flex d-sm-none justify-content-between bg-primary brochure__box px-2">
-        <a href="#" class="d-inline-flex align-items-center">
-            <img src="<?php echo $base_url;?>assets/images/icons/download.svg" class="img-fluid download" alt="download">
+        <a href="#" class="d-inline-flex align-items-center fw-medium">
+            <img src="<?php echo $base_url;?>assets/images/icons/download.svg" width="21" height="21" class="img-fluid download" alt="download">
             <span>Download Brochure</span>
         </a> 
-        <a href="tel:+919987654321" class="d-inline-flex align-items-center text-white rounded-0 shadow-none">
-            <img src="<?php echo $base_url;?>assets/images/icons/mobile-white.svg" class="img-fluid mobile" alt="download">
-            <span>+91 9987 654 321</span>
+        <a href="tel:+919495999128" class="d-inline-flex align-items-center fw-medium text-white rounded-0 shadow-none">
+            <img src="<?php echo $base_url;?>assets/images/icons/mobile-white.svg" width="12" height="21" class="img-fluid mobile" alt="Phone">
+            <span>+91 9495 999 128</span>
         </a>
     </div>
     <!-- Mobile Btns End -->
@@ -109,41 +105,47 @@
                 <li><a href="<?php echo $base_url;?>about.php">About Us</a></li>
                 <li>
                     <div class="d-flex">
-                        <a href="<?php echo $base_url;?>sanitary-ware.php" class="btn__link">Sanitaryware</a>
-                        <a class="collapsed collapse__btn border-start" data-bs-toggle="collapse" href="#collapse001" role="button" aria-expanded="false" aria-controls="collapse001">
+                        <!-- <a href="<?php echo $base_url;?>sanitary-ware.php" class="btn__link">Sanitaryware</a> -->
+                        <a class="collapsed collapse__btn w-100" data-bs-toggle="collapse" href="#collapse001" role="button" aria-expanded="false" aria-controls="collapse001">
+                            Sanitaryware
                         </a>
                     </div>
                     <ul class="collapse" id="collapse001">
-                        <li><a href="#" class="dropdown-item">EWC’s Faucets</a></li>   
-                        <li><a href="#" class="dropdown-item">Washbasins</a></li>  
+                        <li><a href="<?php echo $base_url;?>ewcs.php">EWCs</a></li>
+                        <li><a href="<?php echo $base_url;?>faucet.php">Faucets</a></li> 
+                        <li><a href="<?php echo $base_url;?>washbasins.php">Washbasins</a></li>
                     </ul>
                 </li>  
                 <li><a href="<?php echo $base_url;?>roofing-shingles.php">Roofing Shingles</a></li>   
                 <li>
                     <div class="d-flex">
-                        <a href="<?php echo $base_url;?>tile-roofing.php" class="btn__link">Roof Tile</a>
-                        <a class="collapsed collapse__btn border-start" data-bs-toggle="collapse" href="#collapse002" role="button" aria-expanded="false" aria-controls="collapse002">
+                        <!-- <a href="<?php echo $base_url;?>roofing-tile.php" class="btn__link">Roof Tile</a> -->
+                        <a class="collapsed collapse__btn w-100" data-bs-toggle="collapse" href="#collapse002" role="button" aria-expanded="false" aria-controls="collapse002">
+                            Crizerawud
                         </a>
                     </div>
                     <ul class="collapse" id="collapse002">
-                        <li><a href="#" class="dropdown-item">French Series</a></li>  
-                        <li><a href="#" class="dropdown-item">German Series</a></li>   
-                        <li><a href="#" class="dropdown-item">East Asian Series</a></li>   
+                        <li><a href="<?php echo $base_url;?>pvc-form-boards.php">PVC Form Boards</a></li>
+                        <li><a href="<?php echo $base_url;?>wpc-boards.php">WPC Boards</a></li>     
                     </ul>
                 </li> 
                 <li>
                     <div class="d-flex">
-                        <a href="#" class="btn__link">Buildwares</a>
-                        <a class="collapsed collapse__btn border-start" data-bs-toggle="collapse" href="#collapse003" role="button" aria-expanded="false" aria-controls="collapse003">
+                        <!-- <a href="<?php echo $base_url;?>roofing-tile.php" class="btn__link">Roof Tile</a> -->
+                        <a class="collapsed collapse__btn w-100" data-bs-toggle="collapse" href="#collapse003" role="button" aria-expanded="false" aria-controls="collapse003">
+                            Roof Tile
                         </a>
                     </div>
                     <ul class="collapse" id="collapse003">
-                        <li><a href="#" class="dropdown-item">Manhole Covers</a></li>   
-                        <li><a href="#" class="dropdown-item">Cutoff Wheel</a></li>   
-                        <li><a href="#" class="dropdown-item">Water Tank Filter</a></li>   
-                        <li><a href="#" class="dropdown-item">Silicone Sealant</a></li>   
-                        <li><a href="#" class="dropdown-item">Concrete Nails</a></li>  
+                        <li><a href="<?php echo $base_url;?>french-series.php">French Series</a></li>
+                        <li><a href="<?php echo $base_url;?>german-series.php">German Series</a></li> 
+                        <li><a href="<?php echo $base_url;?>east-asian-series.php">East Asian Series</a></li> 
                     </ul>
+                </li> 
+                <li>
+                    <div class="d-flex">
+                        <a href="<?php echo $base_url;?>buildwares.php" class="">Buildwares</a> 
+                    </div> 
                 </li>  
                 <!-- <li><a href="<?php echo $base_url;?>blog/">Blog</a></li> -->
                 <li><a href="<?php echo $base_url;?>contact.php">Contact Us</a></li>

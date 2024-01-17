@@ -380,7 +380,8 @@
 }
 
 .product__card.listing {
-  border-radius: 0%;
+  border-radius: 1rem;
+  overflow: hidden;
 }
 .product__card.listing .caption {
   background-color: var(--brand);
